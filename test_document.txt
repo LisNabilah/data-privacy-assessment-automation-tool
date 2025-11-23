@@ -1,0 +1,7 @@
+Privacy Policy Example
+
+We retain user data for a period of 24 months. Users may request deletion of their data at any time. 
+In case of a security breach, we will notify affected users within 72 hours. 
+We collect basic personal information such as name and email address. 
+User consent is obtained before processing any personal data. 
+We may share data with third-party service providers for operational purposes.

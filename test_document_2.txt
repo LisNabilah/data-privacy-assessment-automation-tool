@@ -1,0 +1,25 @@
+Data Processing Agreement
+
+This agreement outlines the responsibilities for data protection between the organization and its service providers. 
+
+All third-party vendors must sign a Data Processing Agreement (DPA) before accessing any personal data. The DPA must include clauses for security measures, sub-processor authorization, and data breach notification procedures.
+
+Data Protection Officer
+
+The organization has appointed a Data Protection Officer (DPO) who is responsible for overseeing our privacy compliance program. The DPO can be contacted at privacy@company.com for any data protection inquiries.
+
+Cross-Border Data Transfers
+
+Personal data may be transferred outside Malaysia only when adequate protection measures are in place. We ensure that all international data transfers comply with PDPA requirements and have appropriate safeguards.
+
+Data Retention Schedule
+
+We maintain a data retention schedule that specifies different retention periods for various categories of personal data. Customer data is retained for 7 years after account closure, while employee records are kept for 10 years post-employment.
+
+Security Measures
+
+All personal data is protected with encryption both in transit and at rest. We implement role-based access controls to ensure only authorized personnel can access sensitive information.
+
+Incident Response
+
+In the event of a data breach, our incident response team will activate within 2 hours and notify affected individuals within 72 hours as required by law.
